@@ -119,5 +119,3 @@ test-ball.cpp ---  Contém a função main e a função run que roda 100 vezes a
 0.79 -0.0737778                                                                                               
  
  
- ## Gráfico da posição para os valores acima:
- /home/gabriel/Desktop/tecnicas de programacao/b16-lab/Grafico_posicao_X_Y
